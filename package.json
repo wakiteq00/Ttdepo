@@ -1,0 +1,24 @@
+{
+  "name": "pythogram-tt-api",
+  "version": "1.0.0",
+  "description": "Pythogram TRX API: faster, secure, and advanced for seamless ThunderCore blockchain integration",
+  "main": "api.js",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "keywords": [
+    "pythogram",
+    "tt",
+    "api"
+  ],
+  "author": "pyPanther",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "swagger-ui-express": "^4.6.3",
+    "web3": "^4.0.1"
+  }
+}
